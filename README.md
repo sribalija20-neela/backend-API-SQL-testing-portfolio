@@ -7,3 +7,7 @@ This repository serves as a professional QA portfolio demonstrating backend test
 * **API Testing:** Formulating functional validation scenarios using Postman for endpoints, status codes, and JSON response bodies.
 * **Database Verification:** Constructing structured SQL statements to audit backend data layer tables.
 * **System Integration QA:** Verifying data consistency across end-to-end multi-tier applications.
+
+## 🗒️ Project Documentation Links
+* [🌐 View the REST API Test Suite](./API_Test_Cases.md)
+* [🗄️ View the SQL Database Validation Log](./SQL_Database_Testing.md)
